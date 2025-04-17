@@ -1,13 +1,10 @@
-##  Thiago Gley Pina Lopes
+## System.out.println("Thiago Lopes")
 
 I'm a student Java developer passionate about learning and building real-world applications. I focus on writing clean, reusable code and enjoy exploring how APIs and the Spring ecosystem can solve practical problems.
 I’m currently sharpening my skills by working on personal projects that involve API integration and back-end development. I'm also dedicated to improving my knowledge of object-oriented programming.
 Curious by nature, I like challenging myself to grow both technically and creatively. Whether it's learning something new in Java or refining my logic with LeetCode-style exercises, I'm always aiming to level up.
 
 ### 🧰 Languages and Tools
-
-
-
 
 
 <img align="left" alt="Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
